@@ -28,8 +28,8 @@ const char* FORMAT_OUT_ACCOUNTS = "{\n\tBalance: %f, State: %i, PAN: %s\n}\n";
 const char* FORMAT_IN_ACCOUNTS  = "{\n\tBalance: %f, State: %i, PAN: %s\n}\n";
 // if the string was before the balance, i would say 
 // const char* FORMAT_OUT = "(%[^,], %f)\n";
-const char* FORMAT_OUT_Trans = "{\n\tName: %s\tPAN: %s\n\tEXP: %s\n\tTransAmount: %f\n\tMax Allowed: %f\n\tDate: %s\n\tStatus: %i\n\tTransaction Serial: %ld\n}\n";
-const char* FORMAT_IN_Trans  = "{\n\tName: %s\tPAN: %s\n\tEXP: %s\n\tTransAmount: %f\n\tMax Allowed: %f\n\tDate: %s\n\tStatus: %i\n\tTransaction Serial: %ld\n}\n";
+const char* FORMAT_OUT_Trans = "{\n\tCard Holder Name: %s\tPAN: %s\n\tCard Expiry Date: %s\n\tTransaction Amount: %f\n\tMax Allowed Amount: %f\n\tTransaction Date: %s\n\tTransaction State: %i\n\tTransaction Serial Code: %ld\n}\n";
+const char* FORMAT_IN_Trans  = "{\n\tCard Holder Name: %s\tPAN: %s\n\tCard Expiry Date: %s\n\tTransaction Amount: %f\n\tMax Allowed Amount: %f\n\tTransaction Date: %s\n\tTransaction State: %i\n\tTransaction Serial Code: %ld\n}\n";
 
 
 void structToFile() {

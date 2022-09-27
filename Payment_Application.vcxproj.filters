@@ -54,4 +54,8 @@
       <Filter>Server</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Accounts_V1_DB.txt" />
+    <Text Include="Trans_DB.txt" />
+  </ItemGroup>
 </Project>

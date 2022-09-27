@@ -138,6 +138,10 @@
     <ClInclude Include="server.h" />
     <ClInclude Include="terminal.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Accounts_V1_DB.txt" />
+    <Text Include="Trans_DB.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
