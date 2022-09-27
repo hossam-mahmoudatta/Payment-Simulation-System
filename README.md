@@ -12,6 +12,7 @@ Simulating the process between the client and an ATM Machine.
 
 As you can see from the flowchart that the system is divided into 3 stages.
 
+
 ## System Implementation & Functionality
 
 ### The Program starts in the 1st stage, the `Card` Module by retrieving user info by the following methods:
@@ -46,8 +47,10 @@ As you can see from the flowchart that the system is divided into 3 stages.
 
 ![image](https://user-images.githubusercontent.com/36197508/192581344-567df092-c458-4edf-88a8-814ced04a042.png)
 
+Now the CMD prompts the user if he wants to proceed to make another transaction. If yes, then the whole cycle will start again.
 
 
+## I/O Files
 ### Input Accounts' Database:
 
 ![image](https://user-images.githubusercontent.com/36197508/192575154-beb3e8aa-55b3-46cb-bab8-a06e98f52925.png)
