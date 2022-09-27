@@ -1,13 +1,10 @@
 {
-	Card Holder Name: hossam mahmouda atta
-	PAN: 4716405472349537
+	Card Holder Name: hossam mahmoud atta
+	PAN: 4003600000000014
 	Card Expiry Date: 06/25
-	Transaction Amount: 500.000000
-	Max Allowed Amount: 1000.000000
+	Transaction Amount: 3216.000000
+	Max Allowed Amount: 5000.000000
 	Transaction Date: 27/09/2022
 	Transaction State: 0
 	Transaction Serial Code: 1
 }
-
-
-
