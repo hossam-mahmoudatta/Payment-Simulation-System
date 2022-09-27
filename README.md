@@ -12,7 +12,7 @@ Simulating the process between the client and an ATM Machine.
 
 As you can see from the flowchart that the system is divided into 3 stages.
 
-## System Functionality
+## System Implementation & Functionality
 
 ### The Program starts in the 1st stage, the `Card` Module by retrieving user info by the following methods:
 - `getCardHolderName( )`: gets the name of the cardholder.
@@ -42,10 +42,19 @@ As you can see from the flowchart that the system is divided into 3 stages.
 
 ![image](https://user-images.githubusercontent.com/36197508/192580993-140fba16-be8f-4c96-8157-d8409c66216a.png)
 
+![image](https://user-images.githubusercontent.com/36197508/192581231-bc22cd1f-9745-43ef-abbc-5b1579ce370e.png)
+
+![image](https://user-images.githubusercontent.com/36197508/192581344-567df092-c458-4edf-88a8-814ced04a042.png)
 
 
+
+### Input Accounts' Database:
 
 ![image](https://user-images.githubusercontent.com/36197508/192575154-beb3e8aa-55b3-46cb-bab8-a06e98f52925.png)
 
+### Output Accounts' Database:
 
 ![image](https://user-images.githubusercontent.com/36197508/192573354-5b668414-698f-44d4-a10a-8dc638d1853e.png)
+
+
+## Feel free to contact me regarding the project's implementation!
